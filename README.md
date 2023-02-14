@@ -5,6 +5,7 @@ A program that moves your mouse in a circle
 ## Running
 
 You need to have Python installed on your computer, and you need to know how to run Python files on your computer. I think I've put tutorials in my other repositories.
+You need `pyautogui` (`pip install` it)
 
 ## What this program does
 
