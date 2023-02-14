@@ -15,3 +15,7 @@ This program does not click the mouse for you.
 Your mouse will move to your FIRST monitor. For Windows, that is your monitor with the "type here to search" on your taskbar.
 
 It is difficult to stop this program once you start running it, so make sure you know what you are doing.
+
+## Credits
+
+ChatGPT wrote the majority of this code, though I had to modify it a bit to get it working perfectly.
